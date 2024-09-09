@@ -1,0 +1,6 @@
+Prodect(name=Potato, weight = 50.5, category = Vegetables
+Prodect(name=Spaghetti, weight = 3.4, category = Groceries
+
+Potato, 50.5, Vegetables
+Spaghetti, 3.4, Groceries
+Potato, 5.5, Vegetables
